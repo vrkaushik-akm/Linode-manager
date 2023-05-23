@@ -12,7 +12,7 @@ name: Sbom Generation
 on:
   push:
     branches:
-      - main
+      - develop
       
       
 jobs:
